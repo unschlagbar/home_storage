@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-iron_oxide = { path = "C:/Dev/iron_oxide" }
+iron_oxide = { path = "../iron_oxide" }
