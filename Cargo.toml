@@ -1,0 +1,7 @@
+[package]
+name = "home_storage"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iron_oxide = { path = "C:/Dev/iron_oxide" }
